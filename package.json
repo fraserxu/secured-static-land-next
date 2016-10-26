@@ -1,0 +1,29 @@
+{
+  "name": "secured-static-land-next",
+  "version": "1.0.0",
+  "description": "Secured your static website with different oauth provider with ease.",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^1.0.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fraserxu/secured-static-land-next.git"
+  },
+  "keywords": [
+    "static",
+    "docker",
+    "next"
+  ],
+  "author": "Fraser Xu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fraserxu/secured-static-land-next/issues"
+  },
+  "homepage": "https://github.com/fraserxu/secured-static-land-next#readme"
+}
